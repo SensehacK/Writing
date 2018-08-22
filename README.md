@@ -8,7 +8,7 @@ Here you can find various documentation related to iOS development which can hel
 
 ## Documentation Links
 
-10 Exclusive apps: [Mac Exclusive Apps](10 Exclusive apps for Mac/Top_10_Exclusive_apps_for_Mac.md)
+10 Exclusive apps: [Mac Exclusive Apps](10-Exclusive-apps-for-Mac/Top_10_Exclusive_apps_for_Mac.md)
 
 iOS Natural Alignment Support Link: [iOS Natural Alignment Support](iOSRTLAlignmentSupport.md)
 
