@@ -1,11 +1,14 @@
 # Top Ten Mac Exclusive Apps
 
-
 So you have bought a Mac , what can you do to make the most of it ? Well how about using some of its exclusive apps designed from the ground up to run perfectly on a Mac.
 
-Applications made for certain hardware are always optimised to the core &amp; when the developers are the hardware engineers i.e. Apps Made by Apple. They have certain degree of quality which the fragmented Operating system like the Windows &amp; Ubuntu Computer Users could never achieve. These Applications are tailored for optimised battery life , perfect pixel to pixel ratio applications ( supports Retina display ) etc.
+Applications made for certain hardware are always optimized to the core &amp; when the developers are the hardware engineers i.e. Apps Made by Apple. They have certain degree of quality which the fragmented Operating system like the Windows &amp; Ubuntu Computer Users could never achieve. These Applications are tailored for optimized battery life , perfect pixel to pixel ratio applications ( supports Retina display ) etc.
 
 We recommend these applications as they give some extra value of owing a Mac rather than just an impressive Hardware. These software lures other non mac users to own a Mac.
+
+![alt text][apps]
+
+[apps]: compress/appsFolder.jpeg "Kautilya Save"
 
 The whole list consist of Premium applications which could be helpful in day to day life activities.
 
@@ -15,7 +18,9 @@ We all love applications supported by Mac App Store. The list contains applicati
 
 Disclaimer : Our Ratings for Top Ten applications are not biased or favoured to any specific application. We did not receive any gifts or any money for favouring these applications in the top ten exclusive applications.
 
+![alt text][app]
 
+[app]: compress/app_expose.jpeg "Kautilya Save"
 
 ## Things
 
@@ -33,7 +38,9 @@ It has application support on iPhone , iPad &amp; Mac OS X.
 
 [https://culturedcode.com/things/](https://culturedcode.com/things/)
 
+![alt text][things]
 
+[things]: compress/things1.jpeg "Kautilya Save"
 
 ## Day One
 
@@ -48,6 +55,10 @@ It also supports its own Personal cloud platform for publishing personal journal
 It is currently supported only on iPhone , iPad &amp; Mac OS X.
 
 [http://dayoneapp.com/](http://dayoneapp.com/)
+
+![alt text][dayone]
+
+[dayone]: compress/dayOne.jpeg "Kautilya Save"
 
 ## Final Cut Pro
 
@@ -75,17 +86,21 @@ This software also has a hefty price tag of $299 &amp; it also includes various 
 
 [http://www.apple.com/us/logic-pro/](http://www.apple.com/us/logic-pro/)
 
+![alt text][LogicPro]
 
+[LogicPro]: compress/logic.jpeg "Kautilya Save"
 
 ## Aperture
 
 This software was the De-facto standard for Professional Photographer for after processing of the digital photos. Sadly this application support has been dropped &amp; Apple engineers has supported new Photos Application as Aperture&#39;s successor. Still this application was so intuitive for common users &amp; so powerful for professional users.
 
-It was a great blend of Adobe Photoshop , Lightroom &amp; Simple Google Picasa Photoviewer.
+It was a great blend of Adobe Photoshop, Lightroom &amp; Simple Google Picasa Photoviewer.
 
 Aperture isn&#39;t available to buy as the whole project is being scrapped &amp; succeeded to Photos for Mac.
 
+![alt text][aperture]
 
+[aperture]: compress/aperture.jpeg "Kautilya Save"
 
 ## Pixelmator
 
@@ -99,6 +114,10 @@ It also has Automator Scripts for some automation on batch images in Apple &quot
 
 [http://www.pixelmator.com/mac/](http://www.pixelmator.com/mac/)
 
+![alt text][pixelmator]
+
+[pixelmator]: compress/pixelmator.jpeg "Kautilya Save"
+
 ## TweetBot
 
 This is best twitter application one can get on Apple Ecosystem.
@@ -111,7 +130,9 @@ It supports multiple users login within the application , which could be used fo
 
  [http://tapbots.com/tweetbot/mac/](http://tapbots.com/tweetbot/mac/)
 
+![alt text][TweetBot]
 
+[TweetBot]: compress/tweet_2.jpeg "Kautilya Save"
 
 ## Fantastical 2
 
@@ -121,19 +142,16 @@ Tracking birthdays of friends is also easy , with notes &amp; reminder configura
 
 This application has two modes of operation in themes &quot;Day mode&quot; (Light Mode) or &quot;Night Mode&quot; (Dark Mode). I personally prefer Dark Mode as it saves a considerable amount of battery when using it for significant amount of time.
 
-
-
  [https://flexibits.com/fantastical](https://flexibits.com/fantastical)
 
+![alt text][Fantastical]
 
-
-
-
+[Fantastical]: compress/fantastical.jpeg "Kautilya Save"
 
 
 ## iA Writer
 
-The only minimalistic writer you would ever need.
+The only minimalist writer you would ever need.
 
 This is the standard of how the word processors should have been in the first place.
 
@@ -141,7 +159,11 @@ The text editors shouldn&#39;t show all the features on its front page rather it
 
 This application also supports two theme working modes. &quot;Day mode&quot; (Light Mode) or &quot;Night Mode&quot; (Dark Mode). I personally prefer Dark Mode also on iA Writer as it saves a considerable amount of battery when writing articles for an hour or so.
 
- [https://ia.net/writer/mac](https://ia.net/writer/mac)
+[https://ia.net/writer/mac](https://ia.net/writer/mac)
+
+![alt text][Writer]
+
+[Writer]: compress/iaWriter.jpeg "Kautilya Save"
 
 ## iStudiez Pro
 
@@ -161,8 +183,10 @@ Application downloadable on iPhone , iPad &amp; Mac OS X.
 
 [https://itunes.apple.com/us/app/istudiez-pro/id402989379?mt=12](https://itunes.apple.com/us/app/istudiez-pro/id402989379?mt=12)
 
+![alt text][iStudiez]
 
+[iStudiez]: compress/iStudiez_pro_2.jpeg "Kautilya Save"
 
-With these Top Ten Exclusive Mac Application , we hope that this article has some what lured you into trying one of these Mac Exclusive Applications. If you want to mention any Exclusive app in the honourable section of the article , do share your views in the comments below or contact us. Remember always support the developer, as he/she has invested countless hours into making something beautiful for everyday usage.
+With these Top Ten Exclusive Mac Application , we hope that this article has some what lured you into trying one of these Mac Exclusive Applications. If you want to mention any Exclusive app in the honorable section of the article , do share your views in the comments below or contact us. Remember always support the developer, as he/she has invested countless hours into making something beautiful for everyday usage.
 
-Which one is your favourite Mac Exclusive app let us know in the comments section below.
+Which one is your favorite Mac Exclusive app let us know in the comments section below.
