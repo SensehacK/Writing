@@ -10,7 +10,7 @@ Here you can find various documentation related to iOS development which can hel
 
 10 Exclusive apps: [Mac Exclusive Apps](10_Exclusive_apps_for_Mac/Top_10_Exclusive_apps_for_Mac.md)
 
-iOS Natural Alignment Support Link: [iOS Natural Alignment Support](iOSRTLAlignmentSupport.md)
+Apple Sept 5: [Event 2015](Apple_Event_9_15/Apple_Sept9_Event_Highlights.md)
 
 ## Contribution
 
