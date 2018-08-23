@@ -61,9 +61,9 @@ It is purely designed around Mac Hardware &amp; also supports the Retina Resolut
 
 [http://www.apple.com/us/final-cut-pro/](http://www.apple.com/us/final-cut-pro/)
 
-![alt text][Final Cut Pro]
+![alt text][FinalCut]
 
-[Final Cut Pro]: 10_Exclusive_apps_for_Mac/compress/final_cut_pro_bmw.jpeg "Kautilya Save"
+[FinalCut]: compress/final_cut_pro_bmw.jpeg "Kautilya Save"
 
 ## Logic Pro X
 
