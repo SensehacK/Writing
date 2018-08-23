@@ -63,7 +63,7 @@ It is purely designed around Mac Hardware &amp; also supports the Retina Resolut
 
 ![alt text][Final Cut Pro]
 
-[Final Cut Pro]: https://github.com/SensehacK/SensehacK.github.io/blob/master/10_Exclusive_apps_for_Mac/compress/final_cut_pro_bmw.jpeg" Kautilya Save - Sensehack"
+[Final Cut Pro]: 10_Exclusive_apps_for_Mac/compress/final_cut_pro_bmw.jpeg "Kautilya Save"
 
 ## Logic Pro X
 
