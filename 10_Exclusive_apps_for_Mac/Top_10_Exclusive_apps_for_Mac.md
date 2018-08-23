@@ -6,9 +6,9 @@ Applications made for certain hardware are always optimized to the core &amp; wh
 
 We recommend these applications as they give some extra value of owing a Mac rather than just an impressive Hardware. These software lures other non mac users to own a Mac.
 
-![alt text][apps]
+![alt text][app]
 
-[apps]: compress/appsFolder.jpeg "Kautilya Save"
+[app]: compress/app_expose.jpeg "Kautilya Save"
 
 The whole list consist of Premium applications which could be helpful in day to day life activities.
 
@@ -18,9 +18,9 @@ We all love applications supported by Mac App Store. The list contains applicati
 
 Disclaimer : Our Ratings for Top Ten applications are not biased or favoured to any specific application. We did not receive any gifts or any money for favouring these applications in the top ten exclusive applications.
 
-![alt text][app]
+![alt text][apps]
 
-[app]: compress/app_expose.jpeg "Kautilya Save"
+[apps]: compress/appsFolder.png "Kautilya Save"
 
 ## Things
 
@@ -185,7 +185,7 @@ Application downloadable on iPhone , iPad &amp; Mac OS X.
 
 ![alt text][iStudiez]
 
-[iStudiez]: compress/iStudiez_pro_2.jpeg "Kautilya Save"
+[iStudiez]: compress/istudiez_pro_2.jpeg "Kautilya Save"
 
 With these Top Ten Exclusive Mac Application , we hope that this article has some what lured you into trying one of these Mac Exclusive Applications. If you want to mention any Exclusive app in the honorable section of the article , do share your views in the comments below or contact us. Remember always support the developer, as he/she has invested countless hours into making something beautiful for everyday usage.
 
