@@ -49,8 +49,6 @@ It is currently supported only on iPhone , iPad &amp; Mac OS X.
 
 [http://dayoneapp.com/](http://dayoneapp.com/)
 
-
-
 ## Final Cut Pro
 
 The reason why videophile or Video Professionals buy a Mac is to get their hands dirty on its one of industry standard of Video Editing tools available.
@@ -63,9 +61,9 @@ It is purely designed around Mac Hardware &amp; also supports the Retina Resolut
 
 [http://www.apple.com/us/final-cut-pro/](http://www.apple.com/us/final-cut-pro/)
 
+![alt text][Final Cut Pro]
 
-
-
+[Final Cut Pro]: https://github.com/SensehacK/SensehacK.github.io/blob/master/10_Exclusive_apps_for_Mac/compress/final_cut_pro_bmw.jpeg" Kautilya Save - Sensehack"
 
 ## Logic Pro X
 
