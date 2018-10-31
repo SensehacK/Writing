@@ -1,25 +1,29 @@
 # Powerful device at your wrist - Apple iOS Developer's Perspective.
 
 First of all I would like to start with the buyer's perspective of whether 44k INR is worth it for you ?
+
 I would say no, yet I went ahead and pull the trigger on it.
 
 So opting in for No cost EMI x 9 months gave me a perspective of investing in my health not directly paying just once and getting over it.
+
 Also Amazon India Affiliated (Appario Seller) should have better stock management & after 3 retries of adding to cart & buying it on three different days finally I was able to secure my order from my friend's amazon account.
 
 Using the Apple watch S4 44mm for now 4 days straight, Initial experience - It is blazing fast compared to my earlier apple watch experiences from friends.
 Second thing if you're even slightly concerned about your health or want a push for healthy lifestyle, just buy this thing.
 I have started actively walking stairs rather than lifts & taking long routes towards my workplace in the company campus. Also taking water walking breaks frequently which promotes healthier lifestyle.
 
+**If you want some change become the part of the change.**
+
 ## My Must have apps
 
-1Password
-Nano
-Flipboard
-Soundcloud
-Waterminder
-Runtastic
-Things
-Overcast
+**1Password**
+**Nano**
+**Flipboard**
+**Soundcloud**
+**Waterminder**
+**Runtastic**
+**Things**
+**Overcast**
 
 These are the apps I use daily & recommend anyone to improve their apple watch experience.
 
@@ -66,3 +70,11 @@ Everything is dependent on your iPhone device, So far I'm using my friend's iPho
 ### Note
 
 You can pair only with 1 iPhone at a time as it's authentication & encryption of the data & communication happens via hardware level chipset. Source : Apple iOS Developer.
+
+## Contribution
+
+> Feel free to fork this project & raise a pull request to add more relevant information regarding development tools used in iOS ecosystem.
+
+## Author : [Kautilya Save](https://kautilya.design/)
+
+### [GitHub](https://github.com/SensehacK)
