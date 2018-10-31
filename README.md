@@ -12,7 +12,7 @@ Here you can find various articles related to Computers, Gaming , Mobile & Techn
 
 Apple Sept 5: [Event 2015](Apple_Event_9_15/Apple_Sept9_Event_Highlights.md)
 
-Apple Watch: [Series 4] (Apple_Watch_Series4/apple_watch_series4.md)
+Apple Watch: [Series 4](Apple_Watch_Series4/apple_watch_series4.md)
 
 ### Contribution
 

@@ -1,4 +1,4 @@
-Apple iOS Developer's Perspective.
+Powerful device at your wrist - Apple iOS Developer's Perspective.
 
 First of all I would like to start with the buyer's perspective of whether 44k INR is worth it for you ?
 I would say no, yet I went ahead and pull the trigger on it.
