@@ -1,4 +1,4 @@
-Powerful device at your wrist - Apple iOS Developer's Perspective.
+# Powerful device at your wrist - Apple iOS Developer's Perspective.
 
 First of all I would like to start with the buyer's perspective of whether 44k INR is worth it for you ?
 I would say no, yet I went ahead and pull the trigger on it.
@@ -10,7 +10,8 @@ Using the Apple watch S4 44mm for now 4 days straight, Initial experience - It i
 Second thing if you're even slightly concerned about your health or want a push for healthy lifestyle, just buy this thing.
 I have started actively walking stairs rather than lifts & taking long routes towards my workplace in the company campus. Also taking water walking breaks frequently which promotes healthier lifestyle.
 
-My Must have apps :
+## My Must have apps
+
 1Password
 Nano
 Flipboard
@@ -27,25 +28,41 @@ Things 3
 Fantastical 2
 Auto Sleep
 
-Use cases :
+## Use cases
 
-Handsfree : "hey siri" is great feature. You can ask any question arising from president of USA to asking siri to run shortcuts for your daily tasks.
+### Handsfree
 
-Tracking : Tracking daily tasks on the watch like your water intake, steps, calories, todo lists & calender events etc becomes way easy.
+"hey siri" is great feature. You can ask any question arising from president of USA to asking siri to run shortcuts for your daily tasks.
 
-Notifications : If you don't want to get your phone outside about 50 times in meetings or any day just to reply to the text. This device will change the way you interact with your family or friends.
+### Tracking
 
-Mac : Use it to unlock your Mac device without any other intervention, just keep your watch on your wrist & same apple ID's on both devices.
+Tracking daily tasks on the watch like your water intake, steps, calories, todo lists & calender events etc becomes way easy.
 
-Workout : For workouts apple watch excels in so many different aspects. Also you could have your music library on your watch. If you own cellular version + apple music you can stream any song available in apple music.
+### Notifications
 
-Workarounds : If for some reason, you forgot your iPhone and have any other device like Wifi router or any other phone which can have internet hotspot. Apple watch can connect to it & usually could perform most of its tasks aside from iPhone Notifications & bluetooth calls.
+If you don't want to get your phone outside about 50 times in meetings or any day just to reply to the text. This device will change the way you interact with your family or friends.
 
-Bigger Screen : Bigger screen sizes shows so much information at glance & I love it. The ability to configure the watch to your likings is totally groundbreaking. Every details, reading apps work great on that bigger OLED screen.
+### Mac
 
-Quirks :
+Use it to unlock your Mac device without any other intervention, just keep your watch on your wrist & same apple ID's on both devices.
+
+### Workout
+
+For workouts apple watch excels in so many different aspects. Also you could have your music library on your watch. If you own cellular version + apple music you can stream any song available in apple music.
+
+### Workarounds
+
+If for some reason, you forgot your iPhone and have any other device like Wifi router or any other phone which can have internet hotspot. Apple watch can connect to it & usually could perform most of its tasks aside from iPhone Notifications & bluetooth calls.
+
+### Bigger Screen
+
+Bigger screen sizes shows so much information at glance & I love it. The ability to configure the watch to your likings is totally groundbreaking. Every details, reading apps work great on that bigger OLED screen.
+
+## Quirks
 
 For Initial sync you need an iPhone after that downloading apps & setting up Watch faces too.
 Everything is dependent on your iPhone device, So far I'm using my friend's iPhone 7 for syncing and initial days sync up but within a month I believe iPhone would be a necessary purchase.
 
-Note : You can pair only with 1 iPhone at a time as it's authentication & encryption of the data & communication happens via hardware level chipset. Source : Apple iOS Developer.
+### Note
+
+You can pair only with 1 iPhone at a time as it's authentication & encryption of the data & communication happens via hardware level chipset. Source : Apple iOS Developer.
