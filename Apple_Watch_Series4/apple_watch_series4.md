@@ -17,12 +17,19 @@ I have started actively walking stairs rather than lifts & taking long routes to
 ## My Must have apps
 
 **1Password**
+
 **Nano**
+
 **Flipboard**
+
 **Soundcloud**
+
 **Waterminder**
+
 **Runtastic**
+
 **Things**
+
 **Overcast**
 
 These are the apps I use daily & recommend anyone to improve their apple watch experience.
