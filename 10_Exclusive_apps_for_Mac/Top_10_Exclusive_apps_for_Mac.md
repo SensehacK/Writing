@@ -1,10 +1,8 @@
 # Top Ten Mac Exclusive Apps
 
-So you have bought a Mac , what can you do to make the most of it ? Well how about using some of its exclusive apps designed from the ground up to run perfectly on a Mac.
-
-Applications made for certain hardware are always optimized to the core &amp; when the developers are the hardware engineers i.e. Apps Made by Apple. They have certain degree of quality which the fragmented Operating system like the Windows &amp; Ubuntu Computer Users could never achieve. These Applications are tailored for optimized battery life , perfect pixel to pixel ratio applications ( supports Retina display ) etc.
-
-We recommend these applications as they give some extra value of owing a Mac rather than just an impressive Hardware. These software lures other non mac users to own a Mac.
+So you have bought a Mac, what can you do to make the most of it? Well, how about using some of its exclusive apps designed from the ground up to run perfectly on a Mac.
+Applications made for certain hardware are always optimized to the core & when the developers are the hardware engineers i.e. Apps Made by Apple. They have a certain degree of quality which the fragmented Operating system like the Windows & Ubuntu Computer Users could never achieve. These Applications are tailored for optimized battery life, perfect pixel to pixel ratio applications ( supports Retina display ) etc.
+We recommend these applications as they give some extra value of owning a Mac rather than just an impressive Hardware. These software lures other non-mac users to own a Mac.
 
 ![alt text][app]
 
