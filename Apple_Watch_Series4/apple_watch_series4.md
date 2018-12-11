@@ -32,6 +32,17 @@ I have started actively walking stairs rather than lifts & taking long routes to
 
 **Auto Sleep**
 
+1Password (Free)
+Nano (Free)
+Flipboard (Free)
+Soundcloud (Free)
+Waterminder ($1.99)
+Runtastic ($3.99)
+Things 3 ($9.99)
+Overcast (Free)
+Auto Sleep ($2.99)
+Fantastical 2 ($3.99)
+
 These are the apps I use daily & recommend anyone to improve their apple watch experience.
 
 Apps I plan to buy in future due to their great reviews and functionality. 
@@ -71,6 +82,9 @@ Bigger screen size shows so much information at glance & I love it. The ability 
 ## Quirks
 
 For Initial sync, you need an iPhone after that downloading apps & setting up Watch faces too. Everything is dependent on your iPhone device, So far I'm using my friend's iPhone 7 for syncing and initial days sync up but within a month I believe iPhone would be a necessary purchase.
+Mac Unlock 3 / 10 works perfectly sometimes & fails more times.
+Lift to wake up Siri works 2/10 times I tried.
+Apps still haven't supported the increased screen real estate like "Spotify" still uses Series 3 screen sizes. Hopefully, they release an improved update which also supports offline music + series 4 Infographs.
 
 ### Note
 
